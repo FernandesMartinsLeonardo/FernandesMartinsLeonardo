@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Leonardo 
 
-- 🔭 Hoje busco vagas para Front End
-- 🌱 Estudando para me tornar um desenvolvedor web full stack
-- 😄 Pronomes: ele/dele
+##
 
 
 <div align="center">
