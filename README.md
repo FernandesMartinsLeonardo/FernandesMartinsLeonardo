@@ -1,4 +1,7 @@
-### Olá! Eu sou o Leonardo Martins
+### Olá! Eu sou o Leonardo Martins 👨🏼‍💻
+
+Sou desenvolvedor Front end com formação no bootcamp da Labenu de desenvolvedor web Full Stack. Tenho domínio de algumas tecnologias, mas como destaque HTML, CSS e React, com experiência em projetos práticos na área utilizando estas tecnologias.
+Bacharel em administração, estive presente no mercado por mais de 7 anos em empresa familiar, mas resolvi fazer uma mudança de carreira em busca de novas oportunidades dentro da área de tecnologia.
 
 ##
 
@@ -9,6 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesMartinsLeonardo&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
+  ##
+
+  Linguagens e ferramentas:
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
