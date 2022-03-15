@@ -6,16 +6,16 @@ Bacharel em administração, estive presente no mercado por mais de 7 anos em em
 ### Habilidades em tecnologia
 
 • HTML  
-• CSS 
+• CSS           
 • JavaScript  
 • React.js  
 • Jest  
-• Node.js 
+• Node.js         
 • TypeScript  
-• MySQL 
-• AWS 
+• MySQL       
+• AWS       
 • Firebase  
-• Git 
+• Git       
 • Github  
 • Metodologias ágeis  
 
