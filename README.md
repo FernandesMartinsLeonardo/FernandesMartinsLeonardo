@@ -13,8 +13,6 @@ Bacharel em administração, estive presente no mercado por mais de 7 anos em em
 • Node.js         
 • TypeScript  
 • MySQL       
-• AWS       
-• Firebase  
 • Git       
 • Github  
 • Metodologias ágeis  
