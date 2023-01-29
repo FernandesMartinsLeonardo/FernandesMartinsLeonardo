@@ -3,6 +3,8 @@
 Sou desenvolvedor Front end com formação no bootcamp da Labenu de desenvolvedor web Full Stack. Tenho domínio de algumas tecnologias, mas como destaque HTML, CSS e React, com experiência em projetos práticos na área utilizando estas tecnologias.
 Bacharel em administração, estive presente no mercado por mais de 7 anos em empresa familiar, mas resolvi fazer uma mudança de carreira em busca de novas oportunidades dentro da área de tecnologia.
 
+Portfólio: https://leonardo-fernandes-martins.surge.sh
+
 ### Habilidades em tecnologia
 
 • HTML  
